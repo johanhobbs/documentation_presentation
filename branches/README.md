@@ -20,7 +20,7 @@
 ## Git Branch Naming Best Practices:
 
 1. **Start with a Category Word**:
-   - `fix-' or `feature-`
+   - `fix-` or `feature-`
 2. **Include Issue Tracker IDs**:
 
    - `fix-issue#123-`.
