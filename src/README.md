@@ -4,7 +4,7 @@ these directions assume you have forked the repo and cloned it to your local mac
 
 ## 1. CREATE A BRANCH WITH YOUR NAME
 
-- `git checkout -b "feature-exerciseName-yourName"`
+- `git checkout -b "feature-yourName"`
 
 ## 2. COMPLETE EXERCISE
 
@@ -18,8 +18,12 @@ these directions assume you have forked the repo and cloned it to your local mac
 > ![Alt text](assets/image.png)
 
 - repeat until all tests are green
+- create a new directory in the solutions directory with your name
+- copy ONLY your solution file into the new directory
 
 ## 3. COMMIT YOUR WORK TO YOUR BRANCH
+
+- ONLY commit your solutions directory and any solution files within it
 
 ![Alt text](assets/image-4.png)
 

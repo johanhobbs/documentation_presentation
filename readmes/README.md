@@ -1,46 +1,46 @@
-## About READMEs
+# About READMEs
 
-- #### **Purpose**:
+- ## **Purpose**:
 
   - Communicate important info about your project.
   - Includes project's purpose, usage, help, contributors, etc.
   - Along with license, citation, contribution guidelines, and code of conduct, it sets expectations.
 
-- #### **Placement**:
+- ## **Placement**:
 
-  - First item visitors typically see.
+  - First point of contact.
   - Can be placed in `.github`, root, or `docs` directory for GitHub to automatically display.
   - Profile READMEs: Place in the root of a public repo named after your username to display on your profile.
     [Learn more](https://docs.github.com/en/github/setting-up-and-managing-your-github-profile/managing-your-profile-readme)
     [Phillip-D-Shields](https://github.com/Phillip-D-Shields)
 
-- #### **Auto-generated TOC**:
+- ## **Auto-generated TOC**:
 
   - GitHub generates a table of contents based on section headings in rendered markdown files.
 
-- #### **Section Links**:
+- ## **Section Links**:
 
   - Hover over a section heading in a rendered file to link directly to it.
 
-- #### **Relative Links and Images**:
+- ## **Relative Links and Images**:
 
   - Helps navigate to other files in the repo.
   - Always use relative links for portability across cloned repositories.
   - Example: `[Contribution guidelines](docs/CONTRIBUTING.md)`.
 
-- #### **Wikis**:
+- ## **Wikis**:
   - For extended documentation.
 
-## Importance of a README
+# Importance of a README
 
 - **First Impression**: It's the initial file anyone sees when they come across your project.
 - **Project Distinction**: Makes your project stand out.
 - **Clarity & Guidance**: Helps maintain a clear project focus.
 - **Collaboration**: Helps other developers understand your work, increasing potential collaboration.
 
-## How to Write an Effective README
+# How to Write an Effective README
 
-### General Tips:
+## General Tips:
 
 - No single correct README structure, but it's essential to have one.
 - A README should answer the what, why, and how of the project.
@@ -52,7 +52,7 @@
   5. What makes your project unique?
   6. If loaded with features, consider a "Features" section.
 
-### Essential Sections:
+## Essential Sections:
 
 1. **Project's Title**: Describes the entire project in a concise manner.
 2. **Description**: Highlights the purpose, technologies used, challenges, and future prospects.
@@ -67,7 +67,7 @@
 8. **Badges**: Showcase project stats or link important tools. Use [shields.io](https://shields.io/) for a variety.
 9. **Contribution Guide**: Set clear guidelines for open-source contributions. Ensure the chosen license aligns with your open-source intentions.
 
-## README help
+### README help
 
 [github markdown guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 [about readme](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
