@@ -4,13 +4,9 @@ This repository contains the content for a presentation to students at NMIT conc
 
 ## Contents of this Repository
 
-<!-- TODO create a table of contents for this repo -->
-<!-- TODO include links to READMEs for branches, code, and READMEs subdirectories -->
-<!-- TODO include a short description for each subdirectory -->
-
-## Usage Guide
-
-## Credits
+[code documentation](code/README.md) - some guidelines for documenting code
+[branches documentation](branches/README.md) - some guidelines for naming branches in git
+[READMEs documentation](readmes/README.md) - some guidelines for writing READMEs
 
 ## License
 

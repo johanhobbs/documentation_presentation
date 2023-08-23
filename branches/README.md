@@ -1,4 +1,4 @@
-# Git Branching Guide
+# Git Branching Guidelines
 
 > Each team will have it's own branching strategy, hopefully. This is a general guide to help you understand the concepts.
 
