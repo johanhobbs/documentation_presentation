@@ -31,12 +31,16 @@
 - ## **Wikis**:
   - For extended documentation.
 
+---
+
 # Importance of a README
 
 - **First Impression**: It's the initial file anyone sees when they come across your project.
 - **Project Distinction**: Makes your project stand out.
 - **Clarity & Guidance**: Helps maintain a clear project focus.
 - **Collaboration**: Helps other developers understand your work, increasing potential collaboration.
+
+---
 
 # How to Write an Effective README
 
@@ -66,6 +70,8 @@
 
 8. **Badges**: Showcase project stats or link important tools. Use [shields.io](https://shields.io/) for a variety.
 9. **Contribution Guide**: Set clear guidelines for open-source contributions. Ensure the chosen license aligns with your open-source intentions.
+
+---
 
 ### README help
 

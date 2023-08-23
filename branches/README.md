@@ -2,6 +2,8 @@
 
 > Each team will have it's own branching strategy, hopefully. This is a general guide to help you understand the concepts.
 
+---
+
 ## Types of Git Branches:
 
 1. **Regular Branches**:
@@ -12,6 +14,8 @@
 
 2. **Temporary Branches**:
    - Bug Fix, Hot Fix, Feature Branches.
+
+---
 
 ## Git Branch Naming Best Practices:
 
@@ -39,6 +43,8 @@
 
 7. **Keep Names Short & Informative**:
    - E.g., use `feature_public_login` instead of `feature_login_module_for_public_website`.
+
+---
 
 ## Genia Branching Strategy
 
