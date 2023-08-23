@@ -8,8 +8,6 @@ For example:
 input: "cool"
 output: "looc"
 
-## Source
-
 ### Created by
 
 - @gavinhenderson
